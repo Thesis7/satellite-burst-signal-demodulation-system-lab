@@ -43,23 +43,23 @@ KAY_Y = [0.012, 0.015, 0.0125, 0.014, 0.0156, 0.009,
          0.0005, 0.0005, 0.0003, 0.0001, 0,
          0.0001, -0.0001, 0, -0.0001, 0,
          0.001, -0.001, -0.001, 0.0005, 0, -0.002]
-#
-# MM_FITZ_Y = [0, 2.2, -1.6, 0.4, 0.3, -0.8,
-#              0.6, 0.3, 0.25, 0.1, -0.33,
-#              0.25, -0.33, 0.72, 0.55, -0.8,
-#              0.45, 0.2, 1.78, -0.9, -1.1,
-#              -0.73, 0.25, -0.79, -0.5, -1.1,
-#              -0.3, -0.35, 1.25, -0.89, 0.7,
-#              0.3, -0.45,-1.28, -0.76, 0.8,
-#              0.81, 0, 0.77, -0.42, 0.5,
-#              0.6]
+
+MM_FITZ_Y = [0, 2.2, -1.6, 0.4, 0.3, -0.8,
+             0.6, 0.3, 0.25, 0.1, -0.33,
+             0.25, -0.33, 0.72, 0.55, -0.8,
+             0.45, 0.2, 1.78, -0.9, -1.1,
+             -0.73, 0.25, -0.79, -0.5, -1.1,
+             -0.3, -0.35, 1.25, -0.89, 0.7,
+             0.3, -0.45,-1.28, -0.76, 0.8,
+             0.81, 0, 0.77, -0.42, 0.5,
+             0.6]
 
 fig, ax = plt.subplots()
 ax.plot(X, MM_Y, label='M&M')
 ax.plot(X, FITZ_Y, label='Fitz')
 ax.plot(X, LR_Y, label='L&R')
 ax.plot(X, KAY_Y, label='Kay')
-# ax.plot(X, MM_FITZ_Y, label='M&M+Fitz')
+ax.plot(X, MM_FITZ_Y, label='M&M+Fitz')
 
 # 标记点
 for i in range(42):
@@ -70,8 +70,8 @@ for i in range(42):
     plt.scatter(X[i], LR_Y[i], color='green', marker='*')
 for i in range(42):
     plt.scatter(X[i], KAY_Y[i], color='red', marker='p')
-# for i in range(42):
-#     plt.scatter(X[i], MM_FITZ_Y[i], color='purple', marker='h')
+for i in range(42):
+    plt.scatter(X[i], MM_FITZ_Y[i], color='purple', marker='h')
 # for i in range(9):
 #     plt.scatter(X[i], MM_FITZ_Y[i], color='brown', marker='H')
 
@@ -90,5 +90,5 @@ ax.set_ylabel("Frequency Offset Estimation Value")
 plt.legend()
 plt.grid(True)
 # 保存图表到文件
-plt.savefig('img/Estimation_Range_Lab.png')
+plt.savefig('img/Estimation_Range_Lab3.png')
 plt.show()
