@@ -70,7 +70,7 @@
         <mxCell id="FbeJT2T7nRrVkqOt1vhI-20" value="数据回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="180" y="320" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FbeJT2T7nRrVkqOt1vhI-22" value="dat类型I-Q数据记录文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="FbeJT2T7nRrVkqOt1vhI-22" value="bin类型I-Q数据记录文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="325" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbeJT2T7nRrVkqOt1vhI-27" value="误码率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
