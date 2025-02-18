@@ -5,10 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FbeJT2T7nRrVkqOt1vhI-2" value="匹配滤波" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbeJT2T7nRrVkqOt1vhI-4" value="定时同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FbeJT2T7nRrVkqOt1vhI-5" value="载波同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FbeJT2T7nRrVkqOt1vhI-6" value="星座图解映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FbeJT2T7nRrVkqOt1vhI-7" value="数据回放" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
