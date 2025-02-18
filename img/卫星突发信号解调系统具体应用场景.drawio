@@ -127,7 +127,7 @@
         <mxCell id="TnRLA4IP7PsxTOF_LZi9-44" value="解析信号转换为&lt;div&gt;I-Q数据记录文件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="465" y="190" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-45" value="发送至卫星信号解调系统进行解调处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-45" value="发送至卫星突发信号解调系统进行解调处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620" y="190" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TnRLA4IP7PsxTOF_LZi9-46" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
