@@ -68,7 +68,7 @@ ax.plot(X, MM_Y, label='M&M')
 ax.plot(X, FITZ_Y, label='Fitz')
 ax.plot(X, LR_Y, label='L&R')
 ax.plot(X, KAY_Y, label='Kay')
-ax.plot(X, MM_FITZ_Y, label='M&M+Fitz')
+ax.plot(X, MM_FITZ_Y, label='M&M+L&R')
 ax.plot(X, COSTAS_Y, label='Costas')
 
 # 标记点
