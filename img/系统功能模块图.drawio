@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="99vjS86MhkyZTxiNYhUQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7PIfmBcQ3Pc9Hu5dsOn-1" target="G7PIfmBcQ3Pc9Hu5dsOn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-1" value="卫星突发信号解调系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="256" y="280" width="264" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-3" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-4" value="匹&lt;div&gt;配&lt;/div&gt;&lt;div&gt;滤&lt;/div&gt;&lt;div&gt;波&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-5" value="定&lt;div&gt;时&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;&lt;div&gt;步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-6" value="载&lt;div&gt;波&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;&lt;div&gt;步&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-7" value="星&lt;div&gt;座&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;&lt;div&gt;解&lt;/div&gt;&lt;div&gt;映&lt;/div&gt;&lt;div&gt;射&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-8" value="性&lt;div&gt;能&lt;/div&gt;&lt;div&gt;评&lt;/div&gt;&lt;div&gt;估&lt;/div&gt;&lt;div&gt;指&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-9" value="解&lt;div&gt;调&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;&lt;div&gt;图&lt;/div&gt;&lt;div&gt;表&lt;/div&gt;&lt;div&gt;可&lt;/div&gt;&lt;div&gt;视&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="G7PIfmBcQ3Pc9Hu5dsOn-10" value="数&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;持&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;久&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;化&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;存&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;储&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="40" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
