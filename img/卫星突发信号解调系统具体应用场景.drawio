@@ -1,137 +1,128 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="MffIheYmqDRWyhH1gzId">
-    <mxGraphModel dx="1804" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-31" target="TnRLA4IP7PsxTOF_LZi9-1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-31" target="TnRLA4IP7PsxTOF_LZi9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="490" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="310" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-33" target="TnRLA4IP7PsxTOF_LZi9-35">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-33" target="TnRLA4IP7PsxTOF_LZi9-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-33" target="TnRLA4IP7PsxTOF_LZi9-31">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-33" target="TnRLA4IP7PsxTOF_LZi9-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="160" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="310" width="490" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="400" y="570" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="400" y="500" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="400" y="430" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-5" value="卫星I-Q路数据文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="400" y="360" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-6" value="匹配滤波" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-6" value="匹配滤波" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="435" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-7" value="定时同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-7" value="定时同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="435" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-8" value="载波同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-8" value="载波同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="590" y="435" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-9" value="星座图解映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-9" value="星座图解映射" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="680" y="435" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-10" value="dat类型I-Q数据记录文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="410" y="365" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-11" value="I-Q图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-11" value="I-Q图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="505" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-12" value="星座图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-12" value="星座图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="500" y="505" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-13" value="频谱图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-13" value="频谱图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="505" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-14" value="眼图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-14" value="眼图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="680" y="505" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-16" target="TnRLA4IP7PsxTOF_LZi9-18">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-16" target="TnRLA4IP7PsxTOF_LZi9-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-16" value="信号解调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-16" value="信号解调" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="300" y="430" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-18" target="TnRLA4IP7PsxTOF_LZi9-20">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-18" target="TnRLA4IP7PsxTOF_LZi9-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-18" value="解调结果&lt;div&gt;图表可视化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-18" value="解调结果&lt;div&gt;图表可视化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="300" y="500" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-20" target="TnRLA4IP7PsxTOF_LZi9-27">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-20" target="TnRLA4IP7PsxTOF_LZi9-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-20" value="性能指标计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-20" value="性能指标计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="300" y="570" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TnRLA4IP7PsxTOF_LZi9-22" target="TnRLA4IP7PsxTOF_LZi9-16">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TnRLA4IP7PsxTOF_LZi9-22" target="TnRLA4IP7PsxTOF_LZi9-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-22" value="数据回放" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-22" value="数据采集" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="300" y="360" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-23" value="bin类型I-Q数据记录文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="590" y="365" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-24" value="误码率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-24" value="误码率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="410" y="575" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-25" value="处理时延" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-25" value="处理时延" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="590" y="575" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-26" value="本地持久化存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-26" value="本地持久化存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="400" y="640" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-27" value="持久化存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-27" value="持久化存储" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="300" y="640" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-30" value="卫星突发信号解调系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-30" value="卫星突发信号解调系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="320" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-32" value="发送机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-32" value="发送机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="160" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-35" value="接收机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-35" value="接收机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-40" y="310" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-36" value="发送16-APSK卫星突发信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-36" value="发送16-APSK卫星突发信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-20" y="190" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-37" value="接收16-APSK卫星突发信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-37" value="接收16-APSK卫星突发信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-20" y="335" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-42" value="第三方接收机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-42" value="第三方接收机端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="160" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-43" value="检测信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="140" height="50" as="geometry" />
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-43" value="检测信号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="310" y="190" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-44" value="解析信号转换为&lt;div&gt;I-Q数据记录文件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="465" y="190" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-45" value="发送至卫星突发信号解调系统进行解调处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="620" y="190" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TnRLA4IP7PsxTOF_LZi9-46" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TnRLA4IP7PsxTOF_LZi9-46" value="......" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-20" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZpuzhnLeDzPA8Njsuxq-2" value="发送至卫星突发信号解调系统&lt;div&gt;进行解调处理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
